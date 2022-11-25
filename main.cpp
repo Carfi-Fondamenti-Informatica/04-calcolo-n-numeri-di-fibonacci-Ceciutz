@@ -13,8 +13,8 @@ int main() {
             cout<<c<<endl;
          }
       }
-   else{
-      cout<<"error"<<endl;
+      else{
+       cout<<"error"<<endl;
    }
    return 0;
 }
