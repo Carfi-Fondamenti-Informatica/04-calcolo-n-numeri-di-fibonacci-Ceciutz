@@ -7,7 +7,7 @@ int main() {
    cin>>n;
       if(n>=2){
          cout<<f<<endl
-         cout<<b<<endl;
+         cout<<f1<<endl;
          for(int i =1;i<n-1;i++){
             int temp=f;
             f+=f1;
