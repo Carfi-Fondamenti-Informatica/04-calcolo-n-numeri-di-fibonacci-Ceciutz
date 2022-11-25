@@ -7,7 +7,7 @@ int main() {
       cin>>n;
       if(n<2)
          cout<<"error"<<endl;
-   }while(n>=2);
+   }while(n<2);
    cout<<primo<<endl;
    cout<<secondo<<endl;
    for(i=2;i<n;i++){
