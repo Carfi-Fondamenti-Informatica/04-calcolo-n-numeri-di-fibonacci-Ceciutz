@@ -14,7 +14,7 @@ int main() {
       terzo=primo+secondo;
       primo=secondo;
       secondo=terzo;
-      cout<<"<<terzo<<endl;
+      cout<<""<<terzo<<endl;
       }      
    return 0;
 }
