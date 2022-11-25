@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-   int n=0
+   int n=0;
    int f=1,f1=1;
    cin>>n;
       if(n>=2){
